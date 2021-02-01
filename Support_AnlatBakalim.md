@@ -1,71 +1,34 @@
-<div align="center">
-	<img src="https://imgur.com/Os18FtM.png" width="200" height="200" />
-	<h1><strong>📼 Rek</strong> • Screen recorder but with you •</h1>
-	
-</div>
-<br>
 
-<p align="center">
-<a href="https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930" target="_blank">
-    <img
-      src="https://github.com/thetabbycat/Rek/blob/main/demo.gif?raw=true"
-      height="420"
-      alt="Rek"
-      title="Rek | Screen Capture with sound & PiP camera"
-    /></a>
+# Anlat Bakalım Hakkında / About Anlat Bakalım
 
-<a href="https://www.producthunt.com/posts/rek-screen-capture-with-you?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-rek-screen-capture-with-you" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277727&theme=dark" alt="Rek - Screen Capture with you - Screen capture w/ PiP built-in camera for tutorial creators | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-	
-  </p>
+Anlat Bakalım, yıllardır oynamayı sevdiğimiz klasik kelime oyunu Tabu'dan ilham alarak geliştirildi. Yasaklı kelimelerin her seferinde değiştiği oyunda, tüm kelimeler editörlerimiz tarafından özenle ve tek tek seçildi. Premium sürümünde sürekli güncellenen kelimelere erişecek, oyunu her açtığınızda yenileneceksiniz. Böylece Anlat Bakalım ile hem en çok kelime seçeneğine hem en güncel kelime kartlarına sahip olacak, hem de değişen yasaklı kelimeler ile ezberlerin ötesine geçerek, oyun zevkinizi katlayabileceksiniz!
+Hemen şimdi ücretsiz demo versiyonumuzu indirin ve bu yepyeni versiyonuyla Anlat Bakalım'ı kendiniz deneyin.
+
+# Öne Çıkanlar
+
+Sürekli güncellenen kelime kartları
+Her seferinde değişen yasaklı kelimeler
+
+# Oyunun Amacı
+
+Anlat Bakalım, belirlenen tur sayısı içerisindeki belirlenen sürede takımların yasaklı kelimeleri kullanmadan en çok kelimeyi takım arkadaşlarına anlatabilmesi esasına dayanır. Oyun sonunda en çok kelimeyi bilen takım kazanır.
+
+# Nasıl Oynanır?
+
+**Adım 1 :** Arkadaşlarınızla iki takıma ayrılın. Her takım en az iki kişi olmalıdır. Adım 2 : Anlat Bakalım uygulamasından oyunun ayarlarını belirleyin.
+**Zorluk seviyesi :** Oyunun zorluk seviyesini belirler. Üç farklı seviye bulunur : Kolay, Orta, Zor.
+**Tur süresi :** Takımlara her turda verilen süreyi belirler. Üç farklı süre seçilebilir : 1 Dakika, 3 Dakika, 5 Dakika
+**Tur sayısı :** Takımların toplamda kaç tur oyunu oynayacağını belirler. 1 ile 10 tur arasında seçim yapabilirsiniz.
+**Adım 3 :** Takımlarınız için rengarenk seçenekler arasından sembolünüzü seçin! Sadece Premium kullanıcıları içindir.)
+**Adım 4 :** İlk başlayacak takım anlatıcısını seçerken, rakip takım da kelimeleri kontrol edebilmek için bir oyuncularını gözcü olarak seçer.
+**Adım 5 :** Başla butonuna tıklayın ve ilk turu başlatın.
+**Adım 6 :** Anlatıcı olarak çıkan karttaki kelimeyi altında belirlenmiş yasaklı kelimeleri kullanmadan anlatmaya çalışın. Yasaklı kelimeleri kullanırsanız ya da pas geçmek isterseniz kelime kartını sola doğru sürükleyip atın. Takım arkadaşlarınız kelimeyi bilirse bir sonraki karta geçmek için kelime kartını sağa doğru sürükleyip atın. Süreniz dolana kadar aynı şekilde devam edin. Süreniz dolduğunda ise turlar bitene kadar sırayı karşı takıma vererek oyunu oynamaya devam edin.
+**Adım 7 :** Turlar bittiğinde oyun kazanan takımı kutlayacak. İsterseniz yeniden oynayabilir ya da oyundan çıkabilirsiniz.
+
+
+# Kurallar
+ - Kelime kartında çıkan kelimenin kök hali yasaklı kelimelerden sayılmaktadır. Örneğin "göz atmak" kelimesi için "göz" kelimesini anlatabilirsiniz ancak direkt olarak söyleyemezsiniz
  
-
-## About 📼 Rek
-
-Rek is a menubar app for screen capture tool with built-in camera PiP (Picture-in-Picture)! 🙌 
-
-### Use Cases
-
-It's for video tutorial creators or gamers. IDK.🤔
-
-### Main Features:
-
-- Screen recording (obviously) with sound
-
-- Counter on menubar
-
-- Re-sizeable and moveable built-in-camera preview screen
-
-- Saves videos to Movies folder, Opens automatically
-
-- Nothing fancy. Keep it simple.
-
-
-## Minimum Requirements 🤔
-
-`MacOS 10.15`
-
-## Download 🚀
-
-[![](https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg)](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930)
-
-## Roadmap 🗺
-
-- [ ] One-click preview window sizer with shortcut
-- [X] Submit to Apple Store!
-- [ ] Launch on Producthunt 
-
-## Change log 🧠
-
-### 🏷 v1.0 : Initial Release
-
-
-## Notes and Credits 🍍
-
-Some of icons made by Freepik from www.flaticon.com
-
-## Do you like it? 🙌
-
-[![Buy Me A Coffee](https://raw.githubusercontent.com/stevenselcuk/palamut/master/tools/orange_img.png)](https://www.buymeacoffee.com/stevenselcuk)
-
-
-
+ - Anlatım yapılırken sadece kelimeler kullanılmalıdır. Kelime kartındaki kelimeyi vücut hareketlerini kullanarak veya bir nesneyi göstererek anlatma kural dışıdır. Örneğin "çanta" kelimesi anlatılırken yakınlardaki bir çanta gösterilemez.
+ 
+- Anlatım yapılırken sadece kelimeler kullanılmalıdır. Kelime kartındaki kelimeyi temsil eden ses efektleri ile anlatma kural dışıdır. Örneğin "kuş" kelimesi anlatılırken "cik cik cik" sesleri çıkartılamaz.
