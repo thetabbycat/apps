@@ -1,25 +1,71 @@
-🧄 About the app
-garlic for Remote Jobs basically is a menubar app that lists the latest remote jobs in the tech area. You can click job posting items on the list to see for more detail or/and apply to a job. It opens in a new tab on your default browser.
+<div align="center">
+	<img src="https://imgur.com/Os18FtM.png" width="200" height="200" />
+	<h1><strong>📼 Rek</strong> • Screen recorder but with you •</h1>
+	
+</div>
+<br>
 
-💻 Requirements for garlic
-minimum MacOS 10.15
+<p align="center">
+<a href="https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930" target="_blank">
+    <img
+      src="https://github.com/thetabbycat/Rek/blob/main/demo.gif?raw=true"
+      height="420"
+      alt="Rek"
+      title="Rek | Screen Capture with sound & PiP camera"
+    /></a>
 
-🏷 How to change current listed jobs by tag?
-List shows remote javascript jobs by default.
+<a href="https://www.producthunt.com/posts/rek-screen-capture-with-you?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-rek-screen-capture-with-you" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277727&theme=dark" alt="Rek - Screen Capture with you - Screen capture w/ PiP built-in camera for tutorial creators | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+	
+  </p>
+ 
 
-You can set a job filter like python, full-stack, javascript, ruby, etc. for listing specific remote jobs using the dropdown in the settings window. To open the Settings window just click Settings button.
+## About 📼 Rek
 
-🐛 Did you found a bug or have a feature request?
-This project is 'as-is' with no support. As the developer of the app I do not guarantee changes and improvements but it's ok please open an issue on 👉 https://github.com/stevenselcuk/garlic/issues
+Rek is a menubar app for screen capture tool with built-in camera PiP (Picture-in-Picture)! 🙌 
 
-🔥 I'd like to contribute to the project
-For legal reasons, pull requests are not accepted. But don't worry please feel free to share your thoughts and ideas by creating issue or commenting on the issues.
+### Use Cases
 
-🤔 How to automatically start garlic for Remote Job when Mac restarts?
-You can change the "launch on startup" option if you want to automatically start the garlic when your mac restarts. The default is false.
+It's for video tutorial creators or gamers. IDK.🤔
 
-🔌 How I quit the app?
-You can quit the app with the Quit button.
+### Main Features:
 
-🚀 What else?
-You can also use the right-click menu to get more information about garlic for Remote Jobs, creating feature requests or issues on Github.
+- Screen recording (obviously) with sound
+
+- Counter on menubar
+
+- Re-sizeable and moveable built-in-camera preview screen
+
+- Saves videos to Movies folder, Opens automatically
+
+- Nothing fancy. Keep it simple.
+
+
+## Minimum Requirements 🤔
+
+`MacOS 10.15`
+
+## Download 🚀
+
+[![](https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg)](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930)
+
+## Roadmap 🗺
+
+- [ ] One-click preview window sizer with shortcut
+- [X] Submit to Apple Store!
+- [ ] Launch on Producthunt 
+
+## Change log 🧠
+
+### 🏷 v1.0 : Initial Release
+
+
+## Notes and Credits 🍍
+
+Some of icons made by Freepik from www.flaticon.com
+
+## Do you like it? 🙌
+
+[![Buy Me A Coffee](https://raw.githubusercontent.com/stevenselcuk/palamut/master/tools/orange_img.png)](https://www.buymeacoffee.com/stevenselcuk)
+
+
+
