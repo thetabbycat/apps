@@ -1,9 +1,10 @@
 <div align="center">
-	<img src="https://imgur.com/Os18FtM.png" width="200" height="200" />
-	<h1><strong>📼 Rek</strong> • Screen recorder but with you •</h1>
+	<img src="https://i.imgur.com/7CP7S7X.png" width="200" height="200" />
+	<h1><strong>🤖 The Machine</strong> • Speech to Text App •</h1>
 	
 </div>
 <br>
+
 
 <p align="center">
 <a href="https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930" target="_blank">
@@ -19,38 +20,33 @@
   </p>
  
 
-## About 📼 Rek
+## About 🤖 The Machine
 
-Rek is a menubar app for screen capture tool with built-in camera PiP (Picture-in-Picture)! 🙌 
+Machine is a speech-to-text app with saving transcripts, PDF export and also it's reads back to you! 🙌 
 
 ### Use Cases
 
-It's for video tutorial creators or gamers. IDK.🤔
+Meetings, study with videos, anywhere you need it! 
 
 ### Main Features:
 
-- Screen recording (obviously) with sound
+- Speech-to-text with many language options
 
-- Counter on menubar
+- Save and use again transcripts
 
-- Re-sizeable and moveable built-in-camera preview screen
+- PDF export
 
-- Saves videos to Movies folder, Opens automatically
+- Text share with other apps
 
-- Nothing fancy. Keep it simple.
+- Text-to-speech!
 
 
 ## Minimum Requirements 🤔
 
-`MacOS 10.15`
-
-## Download 🚀
-
-[![](https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg)](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930)
+`ios 14`
 
 ## Roadmap 🗺
 
-- [ ] One-click preview window sizer with shortcut
 - [X] Submit to Apple Store!
 - [ ] Launch on Producthunt 
 
@@ -59,13 +55,12 @@ It's for video tutorial creators or gamers. IDK.🤔
 ### 🏷 v1.0 : Initial Release
 
 
-## Notes and Credits 🍍
-
-Some of icons made by Freepik from www.flaticon.com
-
 ## Do you like it? 🙌
 
 [![Buy Me A Coffee](https://raw.githubusercontent.com/stevenselcuk/palamut/master/tools/orange_img.png)](https://www.buymeacoffee.com/stevenselcuk)
 
+## Need a feature or found a bug?
 
+- Open a issue or
+- [Find me on Twitter](https://twitter.com/hevalandsteven)
 
