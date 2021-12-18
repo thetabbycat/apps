@@ -60,10 +60,11 @@ Meetings, study with videos, anywhere you need it!
 - [Find me on Twitter](https://twitter.com/hevalandsteven)
 
 
-# Gone but not forgotten
+## Gone but not forgotten
 
-## November 13, 2015 - John Reese 
-## November 2015 - Samantha "Root" Groves
+### November 13, 2015 - John Reese 
+
+### November 2015 - Samantha "Root" Groves
 
 
 
