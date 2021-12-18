@@ -54,13 +54,18 @@ Meetings, study with videos, anywhere you need it!
 
 ### 🏷 v1.0 : Initial Release
 
-
-## Do you like it? 🙌
-
-[![Buy Me A Coffee](https://raw.githubusercontent.com/stevenselcuk/palamut/master/tools/orange_img.png)](https://www.buymeacoffee.com/stevenselcuk)
-
 ## Need a feature or found a bug?
 
 - Open a issue or
 - [Find me on Twitter](https://twitter.com/hevalandsteven)
+
+
+# Gone but not forgotten
+
+## November 13, 2015 - John Reese 
+## November 2015 - Samantha "Root" Groves
+
+
+
+
 
