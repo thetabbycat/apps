@@ -5,10 +5,10 @@
 
 </div>
 <br>
-
+<p>
 	<img src="https://i.imgur.com/pVpbEwU.gif" width="200" height="200" />
+	</p>
 
- <figure class="video_container"><video controls="true" allowfullscreen="true" poster="https://i.imgur.com/GE3xUqD.jpg"><source src="https://i.imgur.com/pVpbEwU.mp4" type="video/mp4"></video></figure>
 
 ## About Kotor
 
