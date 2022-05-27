@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://apps.apple.com/us/app/kotor/id1626508161" target="_blank">
     <img
-      src="https://i.imgur.com/3zOGGsO.gif"
+      src="https://i.imgur.com/pVpbEwU.gif"
       height="550"
       alt="Kotor Demo"
       title="Kotor | A sanctuary for found colors a"
