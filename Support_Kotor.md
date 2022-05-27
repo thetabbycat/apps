@@ -6,11 +6,6 @@
 </div>
 <br>
 
-<p align="center">
-<a href="https://apps.apple.com/us/app/kotor/id1626508161" target="_blank">
-    
-	
-  </p>
  <figure class="video_container"><video controls="true" allowfullscreen="true" poster="https://i.imgur.com/GE3xUqD.jpg"><source src="https://i.imgur.com/pVpbEwU.mp4" type="video/mp4"></video></figure>
 
 ## About Kotor
