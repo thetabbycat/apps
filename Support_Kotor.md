@@ -1,71 +1,68 @@
 <div align="center">
-	<img src="https://imgur.com/Os18FtM.png" width="200" height="200" />
-	<h1><strong>📼 Rek</strong> • Screen recorder but with you •</h1>
+	<img src="https://i.imgur.com/BfOkcBs.png" width="200" height="200" />
+	<h1><strong>Kotor | A sanctuary for found colors </h1>
 	
+
 </div>
 <br>
 
 <p align="center">
-<a href="https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930" target="_blank">
+<a href="https://apps.apple.com/us/app/kotor/id1626508161" target="_blank">
     <img
-      src="https://github.com/thetabbycat/Rek/blob/main/demo.gif?raw=true"
-      height="420"
-      alt="Rek"
-      title="Rek | Screen Capture with sound & PiP camera"
+      src="https://i.imgur.com/3zOGGsO.gif"
+      height="550"
+      alt="Kotor Demo"
+      title="Kotor | A sanctuary for found colors a"
     /></a>
 
-<a href="https://www.producthunt.com/posts/rek-screen-capture-with-you?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-rek-screen-capture-with-you" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277727&theme=dark" alt="Rek - Screen Capture with you - Screen capture w/ PiP built-in camera for tutorial creators | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 	
   </p>
  
 
-## About 📼 Rek
+## About Kotor
 
-Rek is a menubar app for screen capture tool with built-in camera PiP (Picture-in-Picture)! 🙌 
+Kotor is a menubar app for picking color from anywhere to reuse them later. Kotor lives in your menubar.
 
 ### Use Cases
 
-It's for video tutorial creators or gamers. IDK.🤔
+Creating themes and color palettes for web development, UI development, illustration and any design works.
 
-### Main Features:
+## How to use
+- Activate picker mode with Control + Command + P key combination
+- Click to save color. 
+- You can serial pick colors
+- To disable color picking mode you can press the Esc key or use the same Control + Command + P key combination
+- Now you are to check your colors
 
-- Screen recording (obviously) with sound
+### On the main view
+- To copy the HEX color to the clipboard click on the color circle
+- or right-click on hex color text to open the context menu
 
-- Counter on menubar
+### On settings view
+- You can clear all colors (WARNING! It's not reversible)
+- You can switch run on startup the app
 
-- Re-sizeable and moveable built-in-camera preview screen
 
-- Saves videos to Movies folder, Opens automatically
-
-- Nothing fancy. Keep it simple.
+Important
+Kotor needs screen recording permission for picking colors for its main functionality. Do not forget.
 
 
 ## Minimum Requirements 🤔
 
-`MacOS 10.15`
+`macOS 11+`
 
 ## Download 🚀
 
-[![](https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg)](https://apps.apple.com/us/app/rek-screen-capture-with-pip/id1543879930)
+[![](https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/macappstore-lrg.svg)](https://apps.apple.com/us/app/kotor/id1626508161)
 
 ## Roadmap 🗺
 
-- [ ] One-click preview window sizer with shortcut
-- [X] Submit to Apple Store!
+- [X] Initials Release
+- [ ] Other color types then HEX
 - [ ] Launch on Producthunt 
 
 ## Change log 🧠
 
 ### 🏷 v1.0 : Initial Release
 
-
-## Notes and Credits 🍍
-
-Some of icons made by Freepik from www.flaticon.com
-
-## Do you like it? 🙌
-
-[![Buy Me A Coffee](https://raw.githubusercontent.com/stevenselcuk/palamut/master/tools/orange_img.png)](https://www.buymeacoffee.com/stevenselcuk)
-
-
-
+	
