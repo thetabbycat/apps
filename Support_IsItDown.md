@@ -9,7 +9,7 @@
 <a href="https://apps.apple.com/us/app/tabbynote-micro-note-taking/id1555858947" target="_blank">
     <img
       src="https://i.imgur.com/4sHArE8.jpg"
-      height="520"
+      height="705"
       alt="🤨 Is it down? Hope not"
       title="🤨 Is it down? Hope not"
     /></a>
