@@ -25,6 +25,27 @@
 ### Main Features:
 
 - Nothing special
+	
+### How to?
+	
+	
+*How to add a new monitor?*
+- Launch app > Click it on the menubar to open the main window
+- Click on the "Plus" button
+- Select your base currency and investment currency
+- You can hide/show on the menubar (Use your menubar space wisely)
+- Enter the amount & hit enter
+
+*How to change the check interval?*
+- Click the "Gear" button on the main window
+- Increase or decrease by using stepper on the "Check Interval" section
+
+
+Is it down is created by an indie developer. Proudly.
+
+Privacy Policy Note
+
+• The app never collects your data. Your data is yours. Always
 
 
 ## Minimum Requirements 🤔
