@@ -1,6 +1,6 @@
 <div align="center">
 	<img src="https://i.imgur.com/8Yu0WKI.png" width="200" height="200" />
-	<h1><strong>The Workforce : *Daily workforce planner*</h1>
+	<h1><strong>The Workforce: Daily workforce planner</h1>
 	
 
 </div>
@@ -12,7 +12,7 @@
 
 ## About the Workforce
 
-Kotor is a menubar app for picking color from anywhere to reuse them later. Kotor lives in your menubar.
+The Workforce is a menubar app for picking color from anywhere to reuse them later. Kotor lives in your menubar.
 
 ### Use Cases
 
@@ -49,8 +49,6 @@ Kotor needs screen recording permission for picking colors for its main function
 ## Roadmap 🗺
 
 - [X] Initials Release
-- [ ] Other color types then HEX
-- [ ] Launch on Producthunt 
 
 ## Change log 🧠
 
