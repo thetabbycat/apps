@@ -1,6 +1,6 @@
 <div align="center">
-	<img src="https://i.imgur.com/BfOkcBs.png" width="200" height="200" />
-	<h1><strong>Kotor | A sanctuary for found colors </h1>
+	<img src="https://i.imgur.com/8Yu0WKI.png" width="200" height="200" />
+	<h1><strong>The Workforce : *Daily workforce planner*</h1>
 	
 
 </div>
